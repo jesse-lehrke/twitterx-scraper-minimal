@@ -2,6 +2,7 @@
  Minimal selenium-wire based code for small scale Twitter/X collection
 
  Requires:
+ 
  Chrome
  
  Chromedriver for your Chrome verion (see: https://chromedriver.chromium.org/)
