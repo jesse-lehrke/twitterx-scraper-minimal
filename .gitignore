@@ -1,3 +1,10 @@
+# Added by Repository Creator
+INPUT/chromedriver
+DATA/*
+!DATA/.gitkeep 
+!INPUT/.gitkeep
+
+# STANDARD GIT CREATED
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
