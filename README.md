@@ -8,6 +8,6 @@
  Chromedriver for your Chrome verion (see: https://chromedriver.chromium.org/)
  
 ## Comments
- Currently no requirements.txt (code extracted from larger project and posted here only temporarily as a public service)
+ Currently no requirements.txt (code extracted from larger project and posted here only temporarily as a public service, i.e. specific request from some persons)
  
  Basically selenium-wire (and OpenSSL if not installed) and pandas should get you going (in addition to Chrome and Chromedriver of course)
